@@ -8,8 +8,8 @@ exports.config = {
     capabilities: {
         'browserName': 'firefox'
     },
-    baseUrl: 'http://localhost:8000/',
     framework: 'jasmine',
+    baseUrl: 'http://localhost:8000/',
     onPrepare: function () {
         browser.driver.manage().window().maximize();
         var jasmineReporters = require('jasmine-reporters');

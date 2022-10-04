@@ -1,25 +1,22 @@
 {
-    "name": "angularjs-template",
-    "description": "A starter project for AngularJS based on John Papa's style guide",
-    "license": "MIT",
+    "name": "qollaabb",
+    "description": "A design to solve Qollaabb challenge",
     "keywords": [
         "AngularJS",
         "angular",
         "template",
-        "angularjs-template",
         "seed",
-        "johnpapa",
         "styleguide",
         "node",
         "express"
     ],
     "authors": [
-        "Michal Pietrzak"
+        "Abhishek Kumar"
     ],
-    "homepage": "https://github.com/pamigomp/angularjs-template",
+    "homepage": "https://github.com/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/pamigomp/angularjs-template.git"
+        "url": "https://github.com/Abhishekmdb123/qoollabb.git"
     },
     "ignore": [],
     "dependencies": {

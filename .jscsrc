@@ -3,8 +3,8 @@
         "if",
         "else",
         "for",
-        "while",
         "do",
+        "while",
         "try",
         "catch"
     ],

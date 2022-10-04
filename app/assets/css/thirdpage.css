@@ -1,0 +1,138 @@
+.thirdpage {
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 1900px;
+    height: 990px;
+    top: 2700px;
+    left: 0px;
+}
+
+.boxcompany{
+    /* Container */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 369.44px;
+height: 354.67px;
+left: 300px;
+top: 0%;
+
+/* Base Color/White */
+/* Dull TOne */
+border: 0.5px solid #7A86A1;
+border-radius: 7.38889px;
+background: #FFFFFF;
+
+}
+.boxstudent {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 369.44px;
+    height: 354.67px;
+    left: 700px;
+    top: 0%;
+
+    /* Base Color/White */
+    /* Dull TOne */
+    border: 0.5px solid #7A86A1;
+    border-radius: 7.38889px;
+    background: #6149CD;
+}
+
+.boxcollege {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 369.44px;
+    height: 354.67px;
+    left: 1100px;
+    top: 0%;
+
+    /* Base Color/White */
+    /* Dull TOne */
+    border: 0.5px solid #7A86A1;
+    border-radius: 7.38889px;
+    background: white;
+}
+
+.boxtext{
+position: absolute;
+text-align: left;
+left: 5%;
+top: 30%;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 29.5556px;
+line-height: 40px;
+/* identical to box height, or 134% */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* Text/Title Text */
+color: #333333;
+
+}
+
+.boxstudent>.boxtext{
+    color: white;
+}
+
+.box company boxtext{
+    left: 5%;
+    top: 30%;
+}
+
+.boxsmall{
+    /* Create 2d / 3d video animation in a short period of time designed to promote a company product */
+
+position: absolute;
+width: 268px;
+left: 5%;
+top: 45%;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14.7778px;
+line-height: 150%;
+/* or 22px */
+
+/* Text/Body Text */
+color: #666666;
+}
+
+.boxstudent>.boxsmall{
+    color: white;
+}
+
+.box company boxsmall{
+    left: 5%;
+    top: 35%;
+}
+
+.boxexplore{
+    /* Container */
+    /* Explore */
+
+position: absolute;
+left: 5%;
+top: 75%;
+background: none;
+border: none;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14.7778px;
+line-height: 150%;
+/* or 22px */
+
+/* Purple */
+color: #6149CD;
+}
+
+.boxstudent>.boxexplore{
+    color: white;
+}
+

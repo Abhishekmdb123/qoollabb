@@ -12,8 +12,8 @@ module.exports = function (grunt) {
             all: [
                 '**/*.js',
                 '!**/*Spec.js',
-                '!app/bower_components/**/*.js',
                 '!node_modules/**/*.js',
+                '!app/bower_components/**/*.js',
                 '!build/*.js',
                 '!dist/*.js',
                 '!coverage/**/*.js'

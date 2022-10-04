@@ -1,10 +1,259 @@
-.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
 
-.done-true {
-    text-decoration: line-through;
-    color: #ddd;
+.firstpage {
+    position: absolute;
+    background: url("../images/BackgroundMukul.png");
+    width: 1900px;
+    height: 990px;
+    top: 0px;
+    left: 0px;
 }
-.form-control[disabled], .form-control[readonly], .fieldset[disabled], .form-control {
+
+.logo{
+    position: absolute;
+    width: 502.85px;
+    height: 129px;
+    left: 5%;
+    top: 0%;
+    color: grey;
+    
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25.46px;
+    line-height: 64px;
+}
+.container h1 {
+
+    position: absolute;
+width: 502.85px;
+height: 129px;
+left: 383.11px;
+top: 250.37px;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 55.46px;
+line-height: 64px;
+/* or 116% */
+
+/* Dull Black */
+color: #EBEBEB;
+
+}
+
+.container h5 {
+    /* work on industry projects gain employibility and explore internships and jobs. */
+
+position: absolute;
+width: 320.6px;
+height: 59px;
+left: 383.11px;
+top: 400.29px;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 15.46px;
+line-height: 29px;
+/* or 191% */
+
+/* Dull Black */
+color: #EBEBEB;
+}
+
+img { border-style: none; }
+
+.graduation{
+
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    left: 900px;
+    top: 160.29px;    
+    background: url(../images/GraduationPic.png);
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+    border:none
+}
+
+.explore {
+    /* Rectangle 2 */
+
+position: absolute;
+width: 156.62px;
+height: 46.22px;
+left: 383.11px;
+top: 495.44px;
+
+/* Dull Black */
+background: #EBEBEB;
+box-shadow: 0px 17px 24px 3px rgba(97, 73, 205, 0.17);
+border-radius: 7px;
+color:rgb(62, 32, 144);
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 15.46px;
+padding: 0px;
+text-align: center;
+cursor: pointer;
+  display: inline-block;
+  /* your image here */
+}
+
+.firstInfo{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 1056.62px;
+height: 75.22px;
+left: 300px;
+top: 945.44px;
+
+background: #FFFEFE;
+box-shadow: 0px 26px 32px -21px rgba(0, 0, 0, 0.12);
+border-radius: 9px;
+
+}
+
+.opportunities{
+    /* Rectangle 16 */
+
+position: absolute;
+width: 270.62px;
+height:50.22px;
+top: 10%;
+left: 5%;
+/* margin: -35px 0 0 -35px; */
+
+/* Purple */
+background: #dedaf1;
+border-radius: 10px;
+color: black;
+text-align: center;
+
+/* Explore Opportunities */
+font-family: 'Urbanist';
+font-style: normal;
+/* identical to box height */
+}
+
+.connect{
+    /* Rectangle 16 */
+
+position: absolute;
+width: 270.62px;
+height:50.22px;
+top: 10%;
+left: 35%;
+/* margin: -35px 0 0 -35px; */
+
+/* Purple */
+background: #dedaf1;
+border-radius: 10px;
+color: black;
+text-align: center;
+
+/* Explore Opportunities */
+font-family: 'Urbanist';
+font-style: normal;
+/* identical to box height */
+
+
+
+}
+
+.sign{
+    /* Rectangle 16 */
+
+position: absolute;
+width: 270.62px;
+height:50.22px;
+top: 10%;
+left: 65%;
+/* margin: -35px 0 0 -35px; */
+
+/* Purple */
+background: #dedaf1;
+border-radius: 10px;
+color: black;
+text-align: center;
+
+/* Explore Opportunities */
+font-family: 'Urbanist';
+font-style: normal;
+/* identical to box height */
+
+
+
+}
+
+.header{
+position: absolute;
+color:white;
+width: 1056.62px;
+height: 65.22px;
+left: 700px;
+top: 50px;
+}
+
+.companies{
+position: absolute;
+top: 0%;
+left: 0%;
+}
+
+.students{
+    position: absolute;
+    top: 0%;
+    left: 10%;
+    }
+
+.college{
+    position: absolute;
+    top: 0%;
+    left: 20%;
+    }
+
+.about{
+    position: absolute;
+    top: 0%;
+    left: 37%;
+    }
+
+.registeration{
+    position: absolute;
+    color:white;
+    width: 700.62px;
+    height: 65.22px;
+    left: 1400px;
+    top: 50px;
+    }
+.signin{
+    background: none;
+    border: none;
+}
+
+.register{
+    color:rgb(136, 95, 170);
+    /* box-shadow: 0px 26px 32px -21px rgba(0, 0, 0, 0.12); */
+    border-radius: 9px;
+    width: 100px;
+}
+/* .form-control[disabled], .form-control[readonly], .fieldset[disabled], .form-control {
     cursor: pointer;
-    background-color: white;
-}
+    background-color: rgb(7, 29, 27);
+} */
+
+/* your image here
+.done-true {
+position: absolute;
+left: 21.14%;
+right: -66.57%;
+top: -40.05%;
+bottom: 14.17%;
+
+background: url(images/GraduationPic.png);
+} */
+
